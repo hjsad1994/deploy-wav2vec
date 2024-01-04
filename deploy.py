@@ -12,7 +12,7 @@ def main():
     word_count = len(words)
     
 
-    st.write(f"Số từ trong văn bản: {word_count}")
+    st.write(f"Số từ trong văn bản: {word_count}") # test
 
 if __name__ == '__main__':
     main()
